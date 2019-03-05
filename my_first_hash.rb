@@ -29,7 +29,7 @@ def adding
               
                     }
   
-  
+  shipping_manifest
   
  return shipping_manifest
 end
