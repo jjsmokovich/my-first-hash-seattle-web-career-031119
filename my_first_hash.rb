@@ -30,6 +30,7 @@ def adding
                     }
   
   shipping_manifest["muskets"] = 4
+  shipping_manifest["gunpowder"] = 2
   
  return shipping_manifest
 end
