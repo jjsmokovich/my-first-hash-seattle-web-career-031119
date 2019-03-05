@@ -29,7 +29,7 @@ def adding
               
                     }
   
-  shipping_manifest
+  shipping_manifest["muskets"] = 4
   
  return shipping_manifest
 end
